@@ -1,0 +1,21 @@
+body
+{
+    overflow-x: hidden;
+}
+.header-bg-color
+{
+    background-color: rgba(38, 70, 83, 1);
+}
+.btn-color
+{
+    background-color:rgba(231, 111, 81, 1);
+}
+.img-filter
+{
+    filter: grayscale(100%);
+}
+.review-section-header
+{
+    color: rgba(231, 111, 81, 1);
+    
+}
